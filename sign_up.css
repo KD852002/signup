@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(RED,yellow);
+    height:200vh;
+}
+main{
+    padding: 30px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+main form{
+    border-radius: 20px;
+    padding: 40px;
+    margin: 130px;
+    width: 25%;
+    background-image: linear-gradient(yellow,white);
+    display: block;
+}
+button{
+    padding: 10px;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+    background-color: yellow;
+    color:blue;
+    margin: 0px 100px;
+    margin-top: 20px;
+}
+label{
+    font-size: 20px;
+    color: red;
+
+}
+#fname{
+    margin-left:0px;
+    height: 30px;
+    border-radius: 5px;
+    width: 60%;
+}
+#lname{
+    margin-top: 10px;
+    height: 30px;
+    width: 60%;
+    border-radius:5px ;
+}
+#email{
+    margin-top: 10px;
+    margin-left: 46px;
+    height: 30px;
+    width: 60%;
+    border-radius: 5px;
+}
+#mobile{
+    margin-top: 10px;
+    margin-left:9px;
+    height:30px ;
+    width: 60%;
+    border-radius: 5px;
+}
+#dob{
+    margin-top: 10px;
+    width:220px;
+    margin-left: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+#pass{
+    margin-top:10px;
+    margin-left: 10px;
+    width: 162px;
+    height: 30px;
+    border-radius: 5px;
+}
+#cpass{
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+#option{
+    font-size: 20px;
+    text-align: center;
+}
+#rd{
+    margin-top: 20px;
+    margin-left: 30px;
+}
